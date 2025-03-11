@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "client-umi",
   "author": "stu.chen <best_css@foxmail.com>",
   "scripts": {
     "dev": "umi dev",
