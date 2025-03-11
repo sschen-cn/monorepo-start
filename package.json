@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cu": "pnpm -F client-umi run dev"
+    "cu": "pnpm -F client-umi dev",
+    "sn": "pnpm -F server-nest start"
   },
   "keywords": [],
   "author": "",
